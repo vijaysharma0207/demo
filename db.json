@@ -6,8 +6,8 @@
         "data": [
             {
                 "id": 442,
-                "title": "Mac",
-                "description": "My",
+                "title": "Login Setup",
+                "description": "Login with phone number",
                  "deadline": "2020-07-21 11:46:42",
                 "hoursAssigned": "20",
              "hoursCompletedTillNow": "8",
@@ -29,11 +29,11 @@
             },
             {
                 "id": 374,
-                "title": "Royo",
-                "description": "Royo taskxhkxohclhfjpcpj upxyfucupcupcuoxysruajfjpcjfystshciboogifuuffudgzhcjcivigussyysd",
+                "title": "Home Setup",
+                "description": "Setup tabs",
                 "deadline": "2020-07-20 13:43:06",
-              "hoursAssigned": "20",
-             "hoursCompletedTillNow": "8",
+              "hoursAssigned": "24",
+             "hoursCompletedTillNow": "22",
                 "created_by": 219,
                 "assigned_to": 20,
                 "created_at": "2020-07-20 07:13:56",
@@ -52,15 +52,61 @@
             },
             {
                 "id": 366,
-                "title": "sidhu moosewala",
-                "description": "sidhu moosewala",
+                "title": "My Task tab setup",
+                "description": "Listing of the tasks assigned to you",
                 "deadline": "2020-07-21 11:46:42",
-              "hoursAssigned": "20",
-             "hoursCompletedTillNow": "8",
+              "hoursAssigned": "30",
+             "hoursCompletedTillNow": "34",
                 "created_by": 185,
                 "assigned_to": 20,
-                "created_at": "2020-07-20 06:17:18",
-                "reopen_count": 0,
+                "created_at": "2020-07-22 06:17:18",
+                "reopen_count": 2,
+                "approved": "n",
+                "completed": "n",
+                "completed_on": null,
+                "assigned": {
+                    "id": 20,
+                    "name": "Raju prasad"
+                },
+                "creator": {
+                    "id": 185,
+                    "name": "Honey"
+                }
+            },
+            {
+                "id": 368,
+                "title": "My Complete Task tab setup",
+                "description": "Listing of the completed tasks assigned to you",
+                "deadline": "2020-07-21 11:46:42",
+              "hoursAssigned": "20",
+             "hoursCompletedTillNow": "10",
+                "created_by": 185,
+                "assigned_to": 20,
+                "created_at": "2020-07-24 04:17:18",
+                "reopen_count": 2,
+                "approved": "n",
+                "completed": "n",
+                "completed_on": null,
+                "assigned": {
+                    "id": 20,
+                    "name": "Raju prasad"
+                },
+                "creator": {
+                    "id": 185,
+                    "name": "Honey"
+                }
+            },
+            {
+                "id": 360,
+                "title": "My Assigned Task tab setup",
+                "description": "Listing of the tasks assigned to you",
+                "deadline": "2020-07-21 11:46:42",
+              "hoursAssigned": "14",
+             "hoursCompletedTillNow": "4",
+                "created_by": 185,
+                "assigned_to": 20,
+                "created_at": "2020-07-22 13:17:18",
+                "reopen_count": 2,
                 "approved": "n",
                 "completed": "n",
                 "completed_on": null,
@@ -73,17 +119,7 @@
                     "name": "Honey"
                 }
             }
-        ],
-        "first_page_url": "https://tasks.royoapps.com/api/task/my-task?page=1",
-        "from": 1,
-        "last_page": 1,
-        "last_page_url": "https://tasks.royoapps.com/api/task/my-task?page=1",
-        "next_page_url": null,
-        "path": "https://tasks.royoapps.com/api/task/my-task",
-        "per_page": 30,
-        "prev_page_url": null,
-        "to": 3,
-        "total": 3
+        ]
     }
 },
   "comments": [
